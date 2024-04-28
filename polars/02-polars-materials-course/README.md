@@ -1,3 +1,6 @@
+# Data Analysis with Polars (Udemy)
+This Folder is the Resource files from the Course: https://www.udemy.com/course/data-analysis-with-polars/
+
 # Installation instructions
 Welcome to the Polars course!
 
