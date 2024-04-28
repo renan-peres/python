@@ -2,8 +2,6 @@
 This Folder is the Resource files from the Course: https://www.udemy.com/course/data-analysis-with-polars/
 
 # Installation instructions
-Welcome to the Polars course!
-
 The current recommended python versions for the course are 3.10 or 3.11
 
 ## Mac OS & Linux
@@ -25,4 +23,18 @@ The current recommended python versions for the course are 3.10 or 3.11
 - Run: `jupyter lab` 
 - Check your installation by opening notebooks/TestInstallation.ipynb
 
+# Notebooks
 
+## [01: Intro](https://github.com/renan-peres/python/blob/main/Polars/02-polars-materials-course/01_intro)
+- **[Polars Quick Start View](https://github.com/renan-peres/python/blob/main/Polars/02-polars-materials-course/01_intro/01-PolarsQuickstart.ipynb)**
+- **[Lazy Polars Intro](https://github.com/renan-peres/python/blob/main/Polars/02-polars-materials-course/01_intro/02-LazyPolarsIntro.ipynb)** 
+- **[Lazy Polars Evaluating](https://github.com/renan-peres/python/blob/main/Polars/02-polars-materials-course/01_intro/03-LazyPolarsEvaluating.ipynb)** 
+- **[Introduction to Data Types](https://github.com/renan-peres/python/blob/main/Polars/02-polars-materials-course/01_intro/04-IntroductionToDataTypes.ipynb)**
+- **[Conversion to Pandas and Numpy](https://github.com/renan-peres/python/blob/main/Polars/02-polars-materials-course/01_intro/06-ConversionPandasNumpy.ipynb)** 
+- **[Visualization](https://github.com/renan-peres/python/blob/main/Polars/02-polars-materials-course/07-Visualisation.ipynb)**  
+- **[Configuring Polars](https://github.com/renan-peres/python/blob/main/Polars/02-polars-materials-course/08-ConfiguringPolars.ipynb)**    
+
+## [02: Filtering Rows](https://github.com/renan-peres/python/blob/main/Polars/02-polars-materials-course/02_filtering_rows)
+- Selecting Rows Square Brackets
+- Selecting Rows Filter 
+- Multiple Filter Conditions
