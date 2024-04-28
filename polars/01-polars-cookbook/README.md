@@ -1,5 +1,5 @@
 # Polars-Cookbook
-B21621 - Polars Cookbook
+This Folder was originally cloned from: https://github.com/PacktPublishing/Polars-Cookbook
 
 ## [Chapter 1: Getting Started with Python Polars](https://github.com/PacktPublishing/Polars-Cookbook/blob/main/Chapter01/ch01.ipynb)
 - Introducing Key Features in Polars 
