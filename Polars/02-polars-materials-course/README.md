@@ -35,6 +35,6 @@ The current recommended python versions for the course are 3.10 or 3.11
 - **[Configuring Polars](https://github.com/renan-peres/python/blob/main/Polars/02-polars-materials-course/08-ConfiguringPolars.ipynb)**    
 
 ## [02: Filtering Rows](https://github.com/renan-peres/python/blob/main/Polars/02-polars-materials-course/02_filtering_rows)
-- Selecting Rows Square Brackets
-- Selecting Rows Filter 
-- Multiple Filter Conditions
+- **[Selecting Rows Square Brackets](https://github.com/renan-peres/python/blob/main/Polars/02-polars-materials-course/notebooks/02_filtering_rows/01-SelectingRowsSquareBrackets.ipynb)** 
+- **[Selecting Rows Filter](https://github.com/renan-peres/python/blob/main/Polars/02-polars-materials-course/notebooks/02_filtering_rows/02-SelectingRowsFilter.ipynb)**  
+- **[Multiple Filter Conditions](https://github.com/renan-peres/python/blob/main/Polars/02-polars-materials-course/notebooks/02_filtering_rows/03-MultipleFilterConditions.ipynb)** 
